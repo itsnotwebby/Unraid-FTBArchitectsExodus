@@ -6,8 +6,8 @@ set -x
 # FTB Presents Architect's Exodus
 # ==============================
 
-SERVER_VERSION="1.3.0"
-SERVER_FILE_ID=1585530
+SERVER_VERSION="1.5.0-server.zip"
+SERVER_FILE_ID=8433350
 SERVER_FILE_NAME="ServerFiles-${SERVER_VERSION}.zip"
 
 # Extract prefix/suffix from file ID dynamically

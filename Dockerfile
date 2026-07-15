@@ -4,7 +4,7 @@ FROM eclipse-temurin:25-jdk
 
 LABEL maintainer="itsnotwebby"
 LABEL modpack="FTB Presents Architect's Exodus"
-LABEL version="1.3.0"
+LABEL version="1.5.0-server.zip"
 LABEL description="Docker container for running an FTB Presents Architect's Exodus server on Unraid"
 
 # Install required tools and clean up apt cache
